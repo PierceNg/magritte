@@ -1,0 +1,3 @@
+initialization
+resetMatcher
+	Matcher := nil
