@@ -1,0 +1,13 @@
+{
+	"commentStamp" : "PierceNg 2/17/2020 18:32",
+	"super" : "MAStringDescription",
+	"category" : "Magritte-Model-Description",
+	"classinstvars" : [ ],
+	"pools" : [ ],
+	"classvars" : [
+		"Matcher"
+	],
+	"instvars" : [ ],
+	"name" : "MAEmailAddressDescription",
+	"type" : "normal"
+}

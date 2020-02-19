@@ -1,0 +1,3 @@
+visiting-description
+visitEmailAddressDescription: anObject
+	self visitDescription: anObject
